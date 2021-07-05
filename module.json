@@ -52,7 +52,7 @@
 	],
 	"url": "https://github.com/passivedragon/foundryvtt-award-xp",
 	"manifest": "https://raw.githubusercontent.com/passivedragon/foundryvtt-award-xp/master/module.json",
-	"download": "https://github.com/passivedragon/foundryvtt-award-xp/archive/v1.3.1.zip",
+	"download": "https://codeload.github.com/passivedragon/foundryvtt-award-xp/zip/refs/tags/v1.3.1",
 	"readme": "https://github.com/passivedragon/foundryvtt-award-xp/blob/master/README.md",
 	"changelog": "https://github.com/passivedragon/foundryvtt-award-xp/blob/master/CHANGELOG.md",
 	"bugs": "https://github.com/passivedragon/foundryvtt-award-xp/issues",
